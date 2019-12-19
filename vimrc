@@ -354,7 +354,8 @@ if has("gui_running")
 else
 	" Inside of a terminal
 	set t_Co=256
-	colorscheme ir_black
+	"colorscheme ir_black
+	colorscheme fu
 	set mouse=a
 endif
 
